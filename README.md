@@ -3,7 +3,7 @@ Ampullary adenocarcinoma (AAC) is a malignant neoplasm that arises within the am
 
 In this project, we performed histopathological analysis, survival analysis, and mutation analysis to infer the tumor origin of pancreatobiliary-type AAC. We found that pancreatobiliary-type AAC resembles pancreatic adenocarcinoma and differs from cholangiocarcinoma.
 
-The data and code for the different analyses are in different folders as indicated by the folder names. Code is written in MATLAB, R, and Python. Sequentially run the scripts in each folder will reproduce the results.
+The data and code for the different analyses are in different folders as indicated by the folder names. Code is written in MATLAB, R, and Python. Sequentially run the scripts in each folder to reproduce the results.
 
 
 Contact information
